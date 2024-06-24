@@ -1,4 +1,4 @@
-package com.study.spring_prepare.calculator.;
+package com.study.spring_prepare.calculator;
 
 public class Calculator {
     public Double operate(double num1, String op, double num2) {

@@ -23,7 +23,5 @@ class CalculatorTest {
         System.out.println("result = " + result);
 
         Assertions.assertEquals(4, result);
-        }
     }
-
 }
